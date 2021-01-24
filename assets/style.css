@@ -1,0 +1,59 @@
+#map {
+    height: 500px;
+    width: 400 px;
+}
+
+.bg-color {
+    background-color: #817F7F;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+.navbar-brand p {
+    font-size: 20px;
+}
+
+.header-dropdown {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #fff;
+}
+
+.dropdown {
+    width: 100%;
+    margin-left: 50px;
+}
+
+.hero-image {
+    background-color: #FFE4CB;
+}
+
+.form-check {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#map {
+    margin: 30px;
+}
+
+#footer {
+    background-color: #E5670B;
+}
+
+#footer-elements {
+    color: #fff;
+}
+
+.footer-header {
+    text-transform: uppercase;
+}
