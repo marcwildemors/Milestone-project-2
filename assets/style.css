@@ -1,6 +1,6 @@
 #map {
     height: 500px;
-    width: 400 px;
+    width: 95%;
 }
 
 .bg-color {
@@ -26,10 +26,10 @@
 .btn-secondary {
     color: #fff;
     background-color: #fff;
+    width: 80%;
 }
 
 .dropdown {
-    width: 100%;
     margin-left: 50px;
 }
 
@@ -40,6 +40,11 @@
 .form-check {
     margin-top: 20px;
     margin-left: 100px;
+}
+
+.reset-all-button {
+    margin-top: 50px;
+    margin-left: 250px;
 }
 
 #map {
